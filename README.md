@@ -12,3 +12,4 @@
 ###### To be updated:
 - ###### Heads or Tails: Handle invalid bet amount
 - ###### Slot Machine: Improve user interface
+- ###### All: Create account that saves file locally with user data (W/T/L, bank)
